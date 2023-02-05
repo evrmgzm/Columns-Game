@@ -1,0 +1,10 @@
+Ali C 150
+Cem E 140
+Can F 100
+Ece G 90
+Sibel H 80
+Pelin A 80
+Remzi J 70
+Yeliz D 60
+Kaan B 50
+Nazan K 40
